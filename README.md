@@ -114,6 +114,57 @@ Here’s my step-by-step journey with some snark to keep things interesting:
 
 ---
 
+## 🎉 Fun & Harmless Codes
+
+Here are some fun snippets you can include as Easter eggs or just for laughs:
+
+📁 devops-journey-from-zero-to-hero  
+├── 📁 01-Linux  
+│   ├── linux_basics.md  
+│   ├── bash_tips.sh  
+│   └── fun-linux-commands.sh  
+├── 📁 02-Networking  
+│   ├── networking_concepts.md  
+│   ├── subnetting_cheatsheet.md  
+│   └── troubleshooting_tips.md  
+├── 📁 03-Git  
+│   ├── git_workflows.md  
+│   ├── git_aliases.sh  
+│   └── fun-git-commands.sh  
+├── 📁 04-Python  
+│   ├── python_basics.md  
+│   ├── automate_nothing.py  
+│   └── funny_python_snippets.py  
+├── 📁 05-Docker  
+│   ├── docker_basics.md  
+│   ├── my_first_dockerfile  
+│   └── procrastinator.Dockerfile  
+├── 📁 06-Kubernetes  
+│   ├── k8s_basics.md  
+│   ├── chill_pod.yaml  
+│   └── helm_tips.md  
+├── 📁 07-Terraform  
+│   ├── terraform_basics.md  
+│   ├── deploy_good_vibes.tf  
+│   └── terraform_gotchas.md  
+├── 📁 08-CI-CD  
+│   ├── jenkins_basics.md  
+│   ├── example_pipeline.groovy  
+│   └── pipeline_humor_notes.md  
+├── 📁 09-Monitoring  
+│   ├── prometheus_basics.md  
+│   ├── grafana_dashboard_tutorial.md  
+│   └── monitoring_fun.md  
+├── 📁 fun-scripts  
+│   ├── ultimate_excuse.sh  
+│   ├── motivation_generator.py  
+│   └── fake_productivity.sh  
+├── README.md  
+├── LICENSE  
+└── .gitignore  
+
+---
+
 ## 🏁 **Final Boss Level**  
 - [ ] Build a project that makes everyone say, “Whoa, they know their stuff!”  
 - [ ] Apply for DevOps roles or conquer open-source projects.  
@@ -123,4 +174,4 @@ Here’s my step-by-step journey with some snark to keep things interesting:
 
 ## 🎉 **Congratulations!**  
 
-You made it through the list! Now go forth and automate everything. Remember, in DevOps, the only limit is your caffeine tolerance. ☕  
+You made it through the list! Now go forth and automate everything. Remember, in DevOps, the only limit is your caffeine tolerance. ☕
